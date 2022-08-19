@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shift Tracker</string>
+    <string name="add_shift">Add Shift</string>
+    <string name="shifts">Shifts</string>
+    <string name="create_a_shift">Create a Shift</string>
+    <string name="save">Save</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="employee">Employee</string>
+    <string name="name">name</string>
+    <string name="Role">Role</string>
+    <string name="role">role</string>
+    <string name="Color">Color</string>
+    <string name="color">color</string>
+</resources>
